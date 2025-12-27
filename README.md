@@ -73,8 +73,6 @@ Training parameters:
 - Best performance 
 - Difficulty 
 
-# Included plots:
-
 # Inference with Hugging Face Pipeline Implemented a pipeline to:
 - Classify new reviews
 - Visualize probabilities using softmax
