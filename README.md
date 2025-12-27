@@ -19,12 +19,12 @@ Size: 20,647 reviews
 Format: text + rating (1–5)
 Source: local CSV file
 
-# Main columns:
+- Main columns:
 comment → review text
 stars → numerical rating
 book_url → link to the book
 
-# Exploratory Analysis:
+- Exploratory Analysis:
 Strong imbalance toward 5-star reviews
 Average review length: 87 words
 Outliers: from 1 word to 4,868 words
